@@ -1,0 +1,8 @@
+{
+  "name": "Pratyush Raj - Prodigy Portfolio",
+  "description": "A multi-themed, futuristic portfolio for Pratyush Raj featuring Hacker, Lamborghini, and Batman aesthetics with integrated Gemini AI interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
